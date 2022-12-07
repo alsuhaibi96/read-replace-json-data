@@ -1,4 +1,5 @@
 1-Pipe all the .html lines of codes that you want to translate
+
 2-Ng extract the files using the following:
 
 npm install @biesbjerg/ngx-translate-extract --save-dev
