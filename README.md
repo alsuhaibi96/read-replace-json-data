@@ -12,6 +12,6 @@ https://www.npmjs.com/package/@biesbjerg/ngx-translate-extract
 
 3-Then use the example.py file to dump the keys with the values of the json keys
 
-4-Then using the translating library yxor/translate-json on github to translate the values
+4-Then using the translating library yxor/translate-json https://github.com/yxor/translate-json to translate the values
 
 5-the last step is to use the vs code to get rid of the extra object and json files
